@@ -41,6 +41,6 @@ It is imporatant to keep this amendment above any others because it proclaims th
 ## Rightly dividing legislation
 To rightly divide the status of legislation by congresses. Everything after the Federal Reserve Act is void. Void means it would be ratified by a congress foreign to the laws on which it claims to be founded. Everything before the Federal Reserve Act is part of a nullified constitution and because the bill of rights does proclaim rights to preexist law it remains applicable even as part of a nullified constitution.
 All of the amendments before the Fed act would be optional after this point of nullification. Therefore partly because those amendments do not proclaim to preexist law I did not include them in the Constitution for the United States amended fiVth article. What I kept, in the Constitution for the United States amended fiVth article, is only what still applies, now.
-## auto-nullification
+## Auto-nullification
 Another fact for needing to keep the constitution is that it is needed to cite why it is nullified at the passing of a Federal Reserve Act. It auto-nullified because it does fail the guaruntee therein "The United States shall guaruntee a republican form of government"[LINK] this failed guaruntee which auto-nullifies the constitution applies, now.
 The Constitution for the United States amended fiVth article is necesarry for two important facts first the preexistence of rights and next the auto-nullification of the constitution. Preexistence of rights and auto-nullification apply now, today.
