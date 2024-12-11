@@ -15,13 +15,13 @@ Creative Commons Attribution-ShareAlike 4.0 International license for my publica
 ## unbroken chain of authenticity
 Other files are the photographs of the Original document. These files are included because they are necesarry for an unbroken chain of authenticity from my text to the original.
 
-Constitution for the United States of America amended fiVth Article has priority to be archived in both ASCII wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then crptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
+## Roadmap
 
-NOTE: This is simply the best publication of Constitution for the United States of America. Other publications do not have this proper form of the constitution. When an amendment happens it should actually be amended by changing the physical source document of the Law. This never happened until I did it here. I appended The Bill of Rights into the constitution at the end of the fivth article, thus making an amended fiVth Article. The fiVth Article is the law governing amendings. 
+Constitution for the United States of America amended fiVth Article has priority to be archived in both ASCII wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then crptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
 
 The Symbols in the text are placeholders for Article. sections. These placeholders must be kept for using the text string to format it as the original and to format it for use in legal software. 
 
-Roadmap: When these repos are Released you will have legal software of the full body of America's law in your hand and easy to access. 
+When these repos are Released you will have an legal software application of the full body of America's law in your hand and easy to access. 
 
 Fact: The Bill of Rights was ratified by the same body in the same timeframe as the original constitution, unlike latter amendments.
 
@@ -30,6 +30,8 @@ Fact: The constitution auto-nullifies.
 Extra Fact: After the Bill of Rights,  subsequent amendments complicate the intent of the constitution.
 
 Fun Fact: Roger Sherman is the only man who signed all four founding Documents.
+
+NOTE: This is simply the best publication of Constitution for the United States of America. Other publications do not have this proper form of the constitution. When an amendment happens it should actually be amended by changing the physical source document of the Law. This never happened until I did it here. I appended The Bill of Rights into the constitution at the end of the fivth article, thus making an amended fiVth Article. The fiVth Article is the law governing amendings. 
 
 # amended fiVth Article
 I appended The Bill of Rights into the constitution at the end of the fivth article. The bill of rights is a Joint Resolution passed by Congress on September 25, 1789. When looking at the bill of rights context clues suggest it was in another draft of the constitution which had rights enumerated therin or drafted for such a constitution. context clues suggest it was drafted for another draft of the constitution because nowhere are certain rights enumerated in the constitution which it was ratified to amend neither are they enumerated in the resolution, therefor to say "the enumeration of certain rights should not be construed to deny or dispairage others"[LINK] suggests the text was either a part of an earlier draft of the constitution which enumerated rights or applied to an earlier draft which enumerated rights. Suppose when that draft was not ratified then this text was selected for amendment pursuant the fivth article.
