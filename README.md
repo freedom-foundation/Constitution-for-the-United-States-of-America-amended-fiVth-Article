@@ -2,6 +2,9 @@
 
 We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. •%All legislative Powe
 
+## Copyright & License
+The source is PUBLIC DOMAIN copyright.
+Creative Commons License for my publication here. 
 
 ## Contents
 
@@ -11,7 +14,7 @@ Other files are the photographs of the Original document. These files are includ
 
 Constitution for the United States of America amended fiVth Article has priority to be archived in both ASCII wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then crptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
 
-NOTE: Others do not have this proper form of the constitution. When an amendment happens it should actually be amended by changing the physical source document of the Law. This never happened until I did it here. I appended all of the ratified joint-resolution for the first amendment into the fiVth Article. The fiVth Article is the law governing amendments. 
+NOTE: This is simply the best publication of Constitution for the United States of America. Other publications do not have this proper form of the constitution. When an amendment happens it should actually be amended by changing the physical source document of the Law. This never happened until I did it here. I appended The Bill of Rights into the constitution at the end of the fivth article, thus making an amended fiVth Article. The fiVth Article is the law governing amendings. 
 
 The Symbols in the text are placeholders for Article. sections. These placeholders must be kept for using the text string to format it as the original and to format it for use in legal software. see [MORE]
 
