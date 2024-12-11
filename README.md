@@ -24,7 +24,8 @@ Fact: The constitution auto-nullifies.
 
 Extra Fact: After the Bill of Rights,  subsequent amendments complicate the intent of the constitution.
 
-Factcheck: Roger Shurmann signed all three founding documents.
+Fun Fact: Roger Sherman is the only man who signed all four founding Documents.
+
 # amended fiVth Article
 I appended The Bill of Rights into the constitution at the end of the fivth article. The bill of rights is a Joint Resolution passed by Congress on September 25, 1789. When looking at the bill of rights context clues suggest it was in another draft of the constitution which had rights enumerated therin or drafted for such a constitution. context clues suggest it was drafted for another draft of the constitution because nowhere are certain rights enumerated in the constitution which it was ratified to amend neither are they enumerated in the resolution, therefor to say "the enumeration of certain rights should not be construed to deny or dispairage others"[LINK] suggests the text was either a part of an earlier draft of the constitution which enumerated rights or applied to an earlier draft which enumerated rights. Suppose when that draft was not ratified then this text was selected for amendment pursuant the fivth article.
 ## Preexistence of rights 
